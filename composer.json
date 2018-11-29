@@ -3,7 +3,7 @@
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "chart", "form"],
-    "homepage": "https://github.com/z-song/laravel-admin",
+    "homepage": "https://github.com/tasmanangel/laravel-admin",
     "license": "MIT",
     "authors": [
         {
